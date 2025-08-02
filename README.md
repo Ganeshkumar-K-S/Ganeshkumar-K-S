@@ -3,7 +3,7 @@
 🎓 Computer Science Student @ SSNCE  
 💻 Data Enthusiast | ☁️ Aspiring Cloud  Engineer | 📊 DSA Explorer
 
-<img align="right" width="400" src="/assets" alt="Animated illustration" />
+<img align="right" width="400" src="/assets/animation.gif" alt="Animated illustration" />
 
 ---
 
