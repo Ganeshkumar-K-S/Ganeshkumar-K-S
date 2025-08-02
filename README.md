@@ -22,9 +22,15 @@ Computer Science Student @ SSNCE
   <img width="48" height="48" src="https://img.icons8.com/glyph-neue/64/sql--v3.png" alt="sql--v3"/>
 </p>
 
-### Frameworks I use
+### Frameworks and Libraries I know
 
 <p>
   <img width="48" height="48" src="https://img.icons8.com/nolan/64/flask.png" alt="flask"/>
   <img width="48" height="48" src="/assets/FastAPI.png"/>
+  <img width="80" height="80" src="https://img.icons8.com/officel/80/react.png" alt="react"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/matplotlib.png" alt="matplotlib"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/>
 </p>
