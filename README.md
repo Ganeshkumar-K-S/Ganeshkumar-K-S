@@ -9,3 +9,9 @@ Computer Science Student @ SSNCE
 - 📦 Building real-world <strong>projects</strong> with <strong>FastAPI</strong>, <strong>Flask</strong>, and <strong>MongoDB</strong>  
 - 📚 Actively learning <strong>SQL</strong>, <strong>Bash</strong>, and <strong>Pydantic</strong>  
 - 🌱 Growing into a <strong>Cloud ML Engineer</strong> 
+
+
+### I code in 
+<img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
