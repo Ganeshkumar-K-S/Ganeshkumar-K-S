@@ -45,3 +45,14 @@ Computer Science Student @ SSNCE
   <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
   <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/postgreesql.png" alt="postgreesql"/>
 </p>
+
+### IDE's and Platforms
+
+<p>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/mac-logo.png" alt="mac-logo"/>
+  <img width="50" height="50" src="/assets/postman.png"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+  <img width="48" height="48" src="/assets/pycharm.jpg"/>s
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/>
+</p>
