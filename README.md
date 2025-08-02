@@ -1,12 +1,17 @@
-## Hi there It's me Ganesh
+## Hi there 👋 I'm Ganesh
 
-Computer Science Student @ SSNCE
-<img align="right" width="370" height="290" src="/assests/animation.gif">
+🎓 Computer Science Student @ SSNCE  
+💻 Data Enthusiast | ☁️ Aspiring Cloud  Engineer | 📊 DSA Explorer
 
-- I'm currently Learning DSA and Data Engineering 
-- Cloud Enthusiasist
-- Line 1
-- Line 2
-- Line 3
-- Line 4
-- Line 5
+<img align="right" width="400" src="/assets/animation.gif" alt="Animated illustration" />
+
+---
+
+- 🔭 Currently learning **DSA** and **Data Engineering**
+- ☁️ Passionate about **Cloud Technologies**
+- ⚙️ Exploring **System Design** and **Backend Development**
+- 📦 Building real-world **projects** with **FastAPI**, **Flask**, and **MongoDB**
+- 📚 Actively learning **SQL**, **Bash**, and **Pydantic**
+- 🌱 Growing into a **Cloud ML Engineer**
+
+---
