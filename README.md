@@ -1,16 +1,12 @@
-<table>
-  <tr>
-    <td width="50%">
-      
-## Hi there 👋 It's me Ganesh
+## Hi there It's me Ganesh
 
-🎓 Computer Science Engineering Student  
-💻 Passionate about Backend ⚙️, Data Engineering 📊 and Cloud ☁️
-      
-   </td>
-   <td width="50%">
-      <img src="animation.gif" alt="Animated intro" style="max-width: 100%; height: auto;" />
-   </td>
-  </tr>
-</table>
+Computer Science Student @ SSNCE
+<img align="right" width="370" height="290" src="/assests/animation.gif">
 
+- I'm currently Learning DSA and Data Engineering 
+- Cloud Enthusiasist
+- Line 1
+- Line 2
+- Line 3
+- Line 4
+- Line 5
