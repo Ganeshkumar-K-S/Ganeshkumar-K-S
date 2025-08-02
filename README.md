@@ -5,7 +5,7 @@
   ☁️ Aspiring <strong>Cloud ML Engineer</strong> | 💻 <strong>Backend Developer</strong> | 📊 <strong>Data Enthusiast</strong>
 </p>
 
-<p align="right">
+<p align="center">
   <img src="/assets/animation.gif" width="270" height="250" alt="animation">
 </p>
 
