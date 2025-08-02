@@ -58,6 +58,7 @@
   <img src="https://img.icons8.com/color/48/oracle-logo.png" alt="Oracle DB" />
   <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" />
   <img src="https://img.icons8.com/ios-filled/50/postgreesql.png" alt="PostgreSQL" />
+  <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/sqlite.png" alt="sqlite"/>
 </p>
 
 ---
