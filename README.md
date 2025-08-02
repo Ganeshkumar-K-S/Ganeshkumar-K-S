@@ -1,7 +1,7 @@
 ## Hi there It's me Ganesh
 
 Computer Science Student @ SSNCE
-<img align="right" width="270" height="200" height="auto" src="/assets/animation.gif">
+<img align="right" width="270" height="250" height="auto" src="/assets/animation.gif">
 
 - 🔭 Currently learning <strong>DSA</strong> and <strong>Data Engineering</strong>  
 - ☁️ Passionate about <strong>Cloud Technologies</strong>  
