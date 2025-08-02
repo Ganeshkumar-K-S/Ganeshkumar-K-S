@@ -14,7 +14,10 @@ Computer Science Student @ SSNCE
 ### I code in
 
 <p>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/bash.png" alt="bash"/>
   <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" width="48" height="48"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+  <img width="64" height="64" src="https://img.icons8.com/glyph-neue/64/sql--v3.png" alt="sql--v3"/>
 </p>
