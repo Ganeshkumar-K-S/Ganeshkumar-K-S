@@ -26,7 +26,7 @@ Computer Science Student @ SSNCE
 
 <p>
   <img width="48" height="48" src="https://img.icons8.com/nolan/64/flask.png" alt="flask"/>
-  <img width="48" height="48" src="/assets/FastAPI.png"/>
+  <img width="45" height="45" src="/assets/FastAPI.png"/>
   <img width="48" height="48" src="https://img.icons8.com/officel/80/react.png" alt="react"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/>
