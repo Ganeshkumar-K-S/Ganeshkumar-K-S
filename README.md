@@ -1,25 +1,12 @@
-<table>
-  <tr>
-    <td valign="top" style="width: 60%;">
+## Hi there It's me Ganesh
 
-      <h2>Hi there 👋 I'm Ganesh</h2>
+Computer Science Student @ SSNCE
+<img align="right" width="370" height="300" height="auto" src="/assests/animation.gif">
 
-      🎓 Computer Science Student @ SSNCE  
-      💻 Data Enthusiast | ☁️ Aspiring Cloud Engineer | 📊 DSA Explorer  
-
-      <br>
-
-      - 🔭 Currently learning <strong>DSA</strong> and <strong>Data Engineering</strong>  
-      - ☁️ Passionate about <strong>Cloud Technologies</strong>  
-      - ⚙️ Exploring <strong>System Design</strong> and <strong>Backend Development</strong>  
-      - 📦 Building real-world <strong>projects</strong> with <strong>FastAPI</strong>, <strong>Flask</strong>, and <strong>MongoDB</strong>  
-      - 📚 Actively learning <strong>SQL</strong>, <strong>Bash</strong>, and <strong>Pydantic</strong>  
-      - 🌱 Growing into a <strong>Cloud ML Engineer</strong>  
-
-    </td>
-    <td style="width: 40%; text-align: center;">
-      <img src="/assets/animation.gif" alt="Animated illustration" width="370px" height="320px"/>
-    </td>
-  </tr>
-</table>
-
+- I'm currently Learning DSA and Data Engineering 
+- Cloud Enthusiasist
+- Line 1
+- Line 2
+- Line 3
+- Line 4
+- Line 5
