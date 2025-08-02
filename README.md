@@ -41,5 +41,5 @@ Computer Science Student @ SSNCE
   <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/mysql-logo.png" alt="mysql-logo"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/oracle-logo.png" alt="oracle-logo"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
-  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo.png" alt="external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo"/>
+  <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/postgreesql.png" alt="postgreesql"/>
 </p>
