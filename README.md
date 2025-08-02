@@ -1,23 +1,25 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<table>
+  <tr>
+    <td valign="top" style="width: 60%; height: 320px;">
 
-<div style="flex: 1;">
+      <h2>Hi there 👋 I'm Ganesh</h2>
 
-## Hi there 👋 I'm Ganesh
+      🎓 Computer Science Student @ SSNCE  
+      💻 Data Enthusiast | ☁️ Aspiring Cloud Engineer | 📊 DSA Explorer  
 
-🎓 Computer Science Student @ SSNCE  
-💻 Data Enthusiast | ☁️ Aspiring Cloud Engineer | 📊 DSA Explorer  
+      <br>
 
-- 🔭 Currently learning **DSA** and **Data Engineering**  
-- ☁️ Passionate about **Cloud Technologies**  
-- ⚙️ Exploring **System Design** and **Backend Development**  
-- 📦 Building real-world **projects** with **FastAPI**, **Flask**, and **MongoDB**  
-- 📚 Actively learning **SQL**, **Bash**, and **Pydantic**  
-- 🌱 Growing into a **Cloud ML Engineer**  
+      - 🔭 Currently learning <strong>DSA</strong> and <strong>Data Engineering</strong>  
+      - ☁️ Passionate about <strong>Cloud Technologies</strong>  
+      - ⚙️ Exploring <strong>System Design</strong> and <strong>Backend Development</strong>  
+      - 📦 Building real-world <strong>projects</strong> with <strong>FastAPI</strong>, <strong>Flask</strong>, and <strong>MongoDB</strong>  
+      - 📚 Actively learning <strong>SQL</strong>, <strong>Bash</strong>, and <strong>Pydantic</strong>  
+      - 🌱 Growing into a <strong>Cloud ML Engineer</strong>  
 
-</div>
+    </td>
+    <td style="width: 40%; text-align: right;">
+      <img src="/assets/animation.gif" alt="Animated illustration" width="370px" height="320px"/>
+    </td>
+  </tr>
+</table>
 
-<div style="flex: 0 0 370px;">
-  <img src="/assets/animation.gif" alt="Animated illustration" width="370px" height="320px"/>
-</div>
-
-</div>
