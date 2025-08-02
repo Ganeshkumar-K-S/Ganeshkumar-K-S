@@ -1,60 +1,84 @@
-## Hi there It's me Ganesh
+<h1 align="center">Hi there 👋, I'm Ganesh</h1>
 
-Computer Science Student @ SSNCE
-<img align="right" width="270" height="250" height="auto" src="/assets/animation.gif">
-
-- 🔭 Currently learning <strong>DSA</strong> and <strong>Data Engineering</strong>  
-- ☁️ Passionate about <strong>Cloud Technologies</strong>  
-- ⚙️ Exploring <strong>System Design</strong> and <strong>Backend Development</strong>  
-- 📦 Building real-world <strong>projects</strong> with <strong>FastAPI</strong>, <strong>Flask</strong>, and <strong>MongoDB</strong>  
-- 📚 Actively learning <strong>SQL</strong>, <strong>Bash</strong>, and <strong>Pydantic</strong>  
-- 🌱 Growing into a <strong>Cloud ML Engineer</strong> 
-
-
-### Languages I code in
-
-<p>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/bash.png" alt="bash"/>
-  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" width="48" height="48"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5.png" alt="html-5"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
-  <img width="48" height="48" src="https://img.icons8.com/glyph-neue/64/sql--v3.png" alt="sql--v3"/>
+<p align="center">
+  🎓 <strong>Computer Science Student @ SSNCE</strong><br>
+  ☁️ Aspiring <strong>Cloud ML Engineer</strong> | 💻 <strong>Backend Developer</strong> | 📊 <strong>Data Enthusiast</strong>
 </p>
 
-### Frameworks and Libraries I know
-
-<p>
-  <img width="48" height="48" src="https://img.icons8.com/nolan/64/flask.png" alt="flask"/>
-  <img width="45" height="45" src="/assets/FastAPI.png"/>
-  <img width="48" height="48" src="https://img.icons8.com/officel/80/react.png" alt="react"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/matplotlib.png" alt="matplotlib"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/>
+<p align="right">
+  <img src="/assets/animation.gif" width="270" height="250" alt="animation">
 </p>
 
-### Databases I'm Familiar with
+---
+
+### 🚀 What I'm Up To
+
+- 🔭 Currently diving into **DSA** and **Data Engineering**
+- ⚙️ Exploring **System Design** and **Backend Architectures**
+- 📦 Building real-world projects with **FastAPI**, **Flask**, and **MongoDB**
+- 📚 Sharpening my skills in **SQL**, **Bash**, and **Pydantic**
+- 🌱 On the journey to become a **Cloud Machine Learning Engineer**
+
+---
+
+### 💻 Languages I Code In
 
 <p>
-  <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/mysql-logo.png" alt="mysql-logo"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/oracle-logo.png" alt="oracle-logo"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
-  <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/postgreesql.png" alt="postgreesql"/>
+  <img src="https://img.icons8.com/color/48/bash.png" alt="bash" />
+  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" />
+  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" />
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" />
+  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" />
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" />
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/glyph-neue/64/sql--v3.png" alt="SQL" />
 </p>
 
-### IDE's and Platforms I work
+---
+
+### 🧰 Frameworks & Libraries
 
 <p>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/mac-logo.png" alt="mac-logo"/>
-  <img width="50" height="50" src="/assets/postman.png"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-  <img width="48" height="48" src="/assets/pycharm.jpg"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/>
+  <img src="https://img.icons8.com/nolan/64/flask.png" alt="Flask" width="48" />
+  <img src="/assets/FastAPI.png" alt="FastAPI" width="45" />
+  <img src="https://img.icons8.com/officel/80/react.png" alt="React" width="48" />
+  <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS" />
+  <img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" />
+  <img src="https://img.icons8.com/color/48/numpy.png" alt="NumPy" />
+  <img src="https://img.icons8.com/color/48/matplotlib.png" alt="Matplotlib" />
+  <img src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="Bootstrap" />
 </p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Ganesh_Kumar_K_S?theme=light&font=Lato&ext=contest)
+---
+
+### 🛢 Databases I'm Familiar With
+
+<p>
+  <img src="https://img.icons8.com/ios-filled/50/mysql-logo.png" alt="MySQL" />
+  <img src="https://img.icons8.com/color/48/oracle-logo.png" alt="Oracle DB" />
+  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" />
+  <img src="https://img.icons8.com/ios-filled/50/postgreesql.png" alt="PostgreSQL" />
+</p>
+
+---
+
+### 🧠 Platforms & Tools I Use
+
+<p>
+  <img src="https://img.icons8.com/color/48/linux--v1.png" alt="Linux" />
+  <img src="https://img.icons8.com/color/48/mac-logo.png" alt="macOS" />
+  <img src="/assets/postman.png" alt="Postman" width="50" />
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VSCode" />
+  <img src="/assets/pycharm.jpg" alt="PyCharm" width="48" />
+  <img src="https://img.icons8.com/fluency/48/jupyter.png" alt="Jupyter" />
+</p>
+
+---
+
+### 📈 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Ganesh_Kumar_K_S?theme=light&font=Lato&ext=contest" alt="LeetCode Stats">
+</div>
+
+---
