@@ -82,12 +82,6 @@
   <img src="https://leetcard.jacoblin.cool/Ganesh_Kumar_K_S?theme=light&font=Lato&ext=contest" alt="LeetCode Stats">
 </div>
 
-### 🟩 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=GaneshKumar-K-S&theme=github" alt="Contribution Graph" />
-</p>
-
 </p>
 
 ---
