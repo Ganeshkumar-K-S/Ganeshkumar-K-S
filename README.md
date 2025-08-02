@@ -82,10 +82,12 @@
   <img src="https://leetcard.jacoblin.cool/Ganesh_Kumar_K_S?theme=light&font=Lato&ext=contest" alt="LeetCode Stats">
 </div>
 
-### 📊 GitHub Stats
+### 🟩 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ganeshkumar-K-S&show_icons=true&theme=default&hide_title=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=GaneshKumar-K-S&theme=github" alt="Contribution Graph" />
+</p>
+
 </p>
 
 ---
