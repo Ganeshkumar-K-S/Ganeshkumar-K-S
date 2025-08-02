@@ -57,4 +57,4 @@ Computer Science Student @ SSNCE
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/>
 </p>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Ganesh_Kumar_K_S?theme=light&font=Lato&ext=contest)]
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ganesh_Kumar_K_S?theme=light&font=Lato&ext=contest)
