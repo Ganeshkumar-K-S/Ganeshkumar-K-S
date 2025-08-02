@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 <strong>Computer Science Student @ SSNCE</strong><br>
-  ☁️ Aspiring <strong>Cloud ML Engineer</strong> | 💻 <strong>Backend Developer</strong> | 📊 <strong>Data Enthusiast</strong>
+  ☁️ Aspiring <strong>Cloud Engineer</strong> | 💻 <strong>Backend Developer</strong> | 📊 <strong>Data Enthusiast</strong>
 </p>
 
 <p align="center">
