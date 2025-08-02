@@ -14,10 +14,10 @@
 ### 🚀 What I'm Up To
 
 - 🔭 Currently diving into **DSA** and **Data Engineering**
-- ⚙️ Exploring **System Design** and **Backend Architectures**
+- ⚙️ Exploring **Big Data* and **Backend Architectures**
 - 📦 Building real-world projects with **FastAPI**, **Flask**, and **MongoDB**
-- 📚 Sharpening my skills in **SQL**, **Bash**, and **Pydantic**
-- 🌱 On the journey to become a **Cloud Machine Learning Engineer**
+- 📚 Sharpening my skills in **SQL** and **Bash**
+- 🌱 On the journey to become a **Cloud Engineer**
 
 ---
 
