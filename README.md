@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td valign="top" style="width: 60%; height: 320px;">
+    <td valign="top" style="width: 60%;">
 
       <h2>Hi there 👋 I'm Ganesh</h2>
 
@@ -17,7 +17,7 @@
       - 🌱 Growing into a <strong>Cloud ML Engineer</strong>  
 
     </td>
-    <td style="width: 40%; text-align: right;">
+    <td style="width: 40%; text-align: center;">
       <img src="/assets/animation.gif" alt="Animated illustration" width="370px" height="320px"/>
     </td>
   </tr>
