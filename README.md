@@ -21,3 +21,10 @@ Computer Science Student @ SSNCE
   <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
   <img width="48" height="48" src="https://img.icons8.com/glyph-neue/64/sql--v3.png" alt="sql--v3"/>
 </p>
+
+### Frameworks I use
+
+<p>
+  <img width="48" height="48" src="https://img.icons8.com/nolan/64/flask.png" alt="flask"/>
+  <img width="48" height="48" src="/assets/FastAPI.png"/>
+</p>
