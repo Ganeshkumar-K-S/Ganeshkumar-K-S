@@ -31,7 +31,7 @@
   <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" />
   <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" />
   <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" />
-  <img src="https://img.icons8.com/glyph-neue/64/sql--v3.png" alt="SQL" />
+  <img src="https://img.icons8.com/glyph-neue/64/sql--v3.png" alt="SQL" width="48" height="48" />
 </p>
 
 ---
@@ -78,7 +78,7 @@
 ### 📈 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Your_Username" alt="LeetCode Stats">
+  <img src="https://leetcard.jacoblin.cool/Ganesh_Kumar_K_S?theme=light&font=Lato&ext=contest" alt="LeetCode Stats">
 </p>
 
 ---
