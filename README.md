@@ -75,9 +75,6 @@
 </p>
 
 ---
-
-### 📈 LeetCode Stats
-
 ### 📈 LeetCode Stats
 
 <p align="center">
