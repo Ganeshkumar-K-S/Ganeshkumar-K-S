@@ -23,7 +23,7 @@
 
 ### 💻 Languages I Code In
 
-<p>
+<p align="center">
   <img src="https://img.icons8.com/color/48/bash.png" alt="bash" />
   <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" />
   <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" />
@@ -38,7 +38,7 @@
 
 ### 🧰 Frameworks & Libraries
 
-<p>
+<p align="center">
   <img src="https://img.icons8.com/nolan/64/flask.png" alt="Flask" width="48" />
   <img src="/assets/FastAPI.png" alt="FastAPI" width="45" />
   <img src="https://img.icons8.com/officel/80/react.png" alt="React" width="48" />
@@ -53,7 +53,7 @@
 
 ### 🛢 Databases I'm Familiar With
 
-<p>
+<p align="center">
   <img src="https://img.icons8.com/ios-filled/50/mysql-logo.png" alt="MySQL" />
   <img src="https://img.icons8.com/color/48/oracle-logo.png" alt="Oracle DB" />
   <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" />
@@ -65,7 +65,7 @@
 
 ### 🧠 Platforms & Tools I Use
 
-<p>
+<p align="center">
   <img src="https://img.icons8.com/color/48/linux--v1.png" alt="Linux" />
   <img src="https://img.icons8.com/color/48/mac-logo.png" alt="macOS" />
   <img src="/assets/postman.png" alt="Postman" width="50" />
@@ -75,6 +75,7 @@
 </p>
 
 ---
+
 ### 📈 LeetCode Stats
 
 <p align="center">
@@ -82,7 +83,45 @@
 </p>
 
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ganeshkumar-K-S&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ganeshkumar-K-S&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganeshkumar-K-S&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<!-- GitHub Stats -->
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=Ganeshkumar-K-S&theme=default&hide_border=false&include_all_commits=true&count_private=false" 
+    media="(prefers-color-scheme: light)" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Ganeshkumar-K-S&theme=dark&hide_border=false&include_all_commits=true&count_private=false" 
+    alt="GitHub Stats" />
+</picture>
+
+<br/>
+
+<!-- Streak Stats -->
+<picture>
+  <source 
+    srcset="https://nirzak-streak-stats.vercel.app/?user=Ganeshkumar-K-S&theme=default&hide_border=false" 
+    media="(prefers-color-scheme: light)" />
+  <img 
+    src="https://nirzak-streak-stats.vercel.app/?user=Ganeshkumar-K-S&theme=dark&hide_border=false" 
+    alt="GitHub Streak Stats" />
+</picture>
+
+<br/>
+
+<!-- Top Languages -->
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganeshkumar-K-S&theme=default&hide_border=false&layout=compact" 
+    media="(prefers-color-scheme: light)" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganeshkumar-K-S&theme=dark&hide_border=false&layout=compact" 
+    alt="Top Languages" />
+</picture>
+
+</div>
+
+---
