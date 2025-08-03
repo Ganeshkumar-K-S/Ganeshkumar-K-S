@@ -24,14 +24,14 @@
 ### 💻 Languages I Code In
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/bash.png" alt="bash" />
-  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" />
-  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" />
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="Java" />
-  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" />
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" />
-  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" />
-  <img src="https://img.icons8.com/glyph-neue/64/sql--v3.png" alt="SQL" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="48" alt="bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="48" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" alt="JavaScript" />
+  <img src="https://img.icons8.com/glyph-neue/64/sql--v3.png" width="48" height="48" alt="SQL" />
 </p>
 
 ---
@@ -39,14 +39,14 @@
 ### 🧰 Frameworks & Libraries
 
 <p align="center">
-  <img src="https://img.icons8.com/nolan/64/flask.png" alt="Flask" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="48" alt="Flask" />
   <img src="/assets/FastAPI.png" alt="FastAPI" width="45" />
-  <img src="https://img.icons8.com/officel/80/react.png" alt="React" width="48" />
-  <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain.svg" width="48" alt="Tailwind CSS" />
   <img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" />
   <img src="https://img.icons8.com/color/48/numpy.png" alt="NumPy" />
   <img src="https://img.icons8.com/color/48/matplotlib.png" alt="Matplotlib" />
-  <img src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="48" alt="Bootstrap" />
 </p>
 
 ---
@@ -54,11 +54,11 @@
 ### 🛢 Databases I'm Familiar With
 
 <p align="center">
-  <img src="https://img.icons8.com/ios-filled/50/mysql-logo.png" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" alt="MySQL" />
   <img src="https://img.icons8.com/color/48/oracle-logo.png" alt="Oracle DB" />
-  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" />
-  <img src="https://img.icons8.com/ios-filled/50/postgreesql.png" alt="PostgreSQL" />
-  <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/sqlite.png" alt="sqlite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="48" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" alt="PostgreSQL" />
+  <img src="https://img.icons8.com/ios-filled/50/sqlite.png" width="48" alt="SQLite" />
 </p>
 
 ---
@@ -66,10 +66,10 @@
 ### 🧠 Platforms & Tools I Use
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/linux--v1.png" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="48" alt="Linux" />
   <img src="https://img.icons8.com/color/48/mac-logo.png" alt="macOS" />
   <img src="/assets/postman.png" alt="Postman" width="50" />
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VSCode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" alt="VSCode" />
   <img src="/assets/pycharm.jpg" alt="PyCharm" width="48" />
   <img src="https://img.icons8.com/fluency/48/jupyter.png" alt="Jupyter" />
 </p>
