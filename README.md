@@ -77,9 +77,7 @@
 ---
 ### 📈 LeetCode Stats
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/Ganesh_Kumar_K_S?theme=light&font=Lato&ext=contest" alt="LeetCode Stats">
-</div>
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ganesh_Kumar_K_S?theme=light&font=Lato&ext=contest)
 
 
 ---
