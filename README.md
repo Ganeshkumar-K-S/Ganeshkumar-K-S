@@ -75,7 +75,11 @@
 </p>
 
 ---
-📈 LeetCode Stats
-<p align="center"> <a href="https://leetcode.com/Ganesh_Kumar_K_S/" target="_blank"> <img src="https://leetcard.jacoblin.cool/Ganesh_Kumar_K_S?theme=light&font=Lato&ext=contest" alt="LeetCode Stats" width="400"/> </a> </p>
+### 📈 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Ganesh_Kumar_K_S?theme=light&font=Lato&ext=contest" alt="LeetCode Stats">
+</div>
+
 
 ---
