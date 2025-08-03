@@ -42,7 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="48" alt="Flask" />
   <img src="/assets/FastAPI.png" alt="FastAPI" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain.svg" width="48" alt="Tailwind CSS"/>
+  <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS" />
   <img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" />
   <img src="https://img.icons8.com/color/48/numpy.png" alt="NumPy" />
   <img src="https://img.icons8.com/color/48/matplotlib.png" alt="Matplotlib" />
