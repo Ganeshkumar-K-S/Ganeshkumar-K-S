@@ -77,8 +77,6 @@
 ---
 ### 📈 LeetCode Stats
 
-### 📈 LeetCode Stats
-
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Your_Username" alt="LeetCode Stats">
 </p>
