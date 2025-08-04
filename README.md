@@ -128,15 +128,15 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/ganesh-kumar-k-s](https://www.linkedin.com/in/ganeshkumar-k-s-370353344/)" target="_blank">
+  <a href="https://www.linkedin.com/in/ganeshkumar-k-s-370353344/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="48" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="[https://www.naukri.com/mnjuser/profile](https://www.naukri.com/mnjuser/profile?id=&altresid)" target="_blank">
+  <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="_blank">
     <img src="/assets/naukri.png" width="48" alt="Naukri" />
   </a>
   &nbsp;&nbsp;
-  <a href="[https://www.hackerrank.com/ganeshkumarks](https://www.hackerrank.com/profile/ganeshkumar78601)" target="_blank">
+  <a href="https://www.hackerrank.com/ganeshkumar78601" target="_blank">
     <img src="/assets/hackerrank.png" width="48" alt="HackerRank" />
   </a>
   &nbsp;&nbsp;
@@ -148,4 +148,5 @@
     <img src="https://img.icons8.com/color/48/gmail-new.png" width="48" alt="Gmail" />
   </a>
 </p>
+
 
