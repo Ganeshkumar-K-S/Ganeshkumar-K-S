@@ -125,3 +125,27 @@
 </div>
 
 ---
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="[https://www.linkedin.com/in/ganesh-kumar-k-s](https://www.linkedin.com/in/ganeshkumar-k-s-370353344/)" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="48" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="[https://www.naukri.com/mnjuser/profile](https://www.naukri.com/mnjuser/profile?id=&altresid)" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Naukri_Logo.png" width="48" alt="Naukri" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="[https://www.hackerrank.com/ganeshkumarks](https://www.hackerrank.com/profile/ganeshkumar78601)" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hackerrank/hackerrank-original.svg" width="48" alt="HackerRank" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/Ganesh_Kumar_K_S/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" alt="LeetCode" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ganeshkumar20057860@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="48" alt="Gmail" />
+  </a>
+</p>
+
