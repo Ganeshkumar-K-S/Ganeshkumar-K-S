@@ -25,7 +25,7 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="48" alt="bash" />
-<script type="module"> import @programming-languages-logos/c from https://cdn.jsdelivr.net/npm/@programming-languages-logos/c@0.0.3/+esm </script>
+  <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/c@0.0.3/c.png" width="48" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" alt="HTML5" />
