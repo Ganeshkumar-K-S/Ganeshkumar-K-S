@@ -20,11 +20,10 @@
 - 🌱 On the journey to become a **Cloud Engineer**
 
 ---
-
-### 💻 Languages I Code In
+### 🛡️ My Developer Arsenal
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="48" alt="bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="48" alt="Bash" />
   <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/c@0.0.3/c.png" width="48" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" alt="Java" />
@@ -32,13 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" alt="JavaScript" />
   <img src="https://img.icons8.com/glyph-neue/64/sql--v3.png" width="48" height="48" alt="SQL" />
-</p>
-
----
-
-### 🧰 Frameworks & Libraries
-
-<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="48" alt="Flask" />
   <img src="/assets/FastAPI.png" alt="FastAPI" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" alt="React" />
@@ -47,25 +39,11 @@
   <img src="https://img.icons8.com/color/48/numpy.png" alt="NumPy" />
   <img src="https://img.icons8.com/color/48/matplotlib.png" alt="Matplotlib" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="48" alt="Bootstrap" />
-</p>
-
----
-
-### 🛢 Databases I'm Familiar With
-
-<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" alt="MySQL" />
   <img src="https://img.icons8.com/color/48/oracle-logo.png" alt="Oracle DB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="48" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" alt="PostgreSQL" />
   <img src="https://img.icons8.com/ios-filled/50/sqlite.png" width="48" alt="SQLite" />
-</p>
-
----
-
-### 🧠 Platforms & Tools I Use
-
-<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="48" alt="Linux" />
   <img src="https://img.icons8.com/color/48/mac-logo.png" alt="macOS" />
   <img src="/assets/postman.png" alt="Postman" width="50" />
