@@ -42,6 +42,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" alt="MySQL" />
   <img src="https://img.icons8.com/color/48/oracle-logo.png" alt="Oracle DB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="48" alt="MongoDB" />
+  <img width="48" height="48" src="/assets/HDFS.png" alt="hadoop-distributed-file-system"/>
+  <img width="48" height="48" src="/assets/cassandra.png" alt="Cassandra"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" alt="PostgreSQL" />
   <img src="https://img.icons8.com/ios-filled/50/sqlite.png" width="48" alt="SQLite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="48" alt="Linux" />
@@ -50,7 +52,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" alt="VSCode" />
   <img src="/assets/pycharm.jpg" alt="PyCharm" width="48" />
   <img src="https://img.icons8.com/fluency/48/jupyter.png" alt="Jupyter" />
-  <img width="48" height="48" src="/assets/HDFS.png" alt="hadoop-distributed-file-system"/>
 </p>
 
 ---
