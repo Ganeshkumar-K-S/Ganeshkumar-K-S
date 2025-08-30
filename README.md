@@ -20,7 +20,7 @@
 - 🌱 On the journey to become a **Cloud Engineer**
 
 ---
-### My Nerd Buffet
+### 🤓 My Nerd Buffet
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="48" alt="Bash" />
