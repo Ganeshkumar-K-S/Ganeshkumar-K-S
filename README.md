@@ -11,13 +11,19 @@
 
 ---
 
-### 🚀 What I'm Up To
+## 🚀 What I'm Up To 
 
-- 🔭 Currently diving into **DSA** and **Data Engineering**
-- ⚙️ Exploring **Big Data** and **Backend Architectures**
-- 📦 Building real-world projects with **FastAPI**, **Flask**, and **MongoDB**
-- 📚 Sharpening my skills in **SQL** and **Bash**
-- 🌱 On the journey to become a **Cloud Engineer**
+```python
+class NullPointerVision:
+    def __init__(self):
+        self.currently_diving_in = "System Design (aka drawing boxes and arrows that magically solve scaling issues)"
+        self.exploring = "Big Data & Backend Architectures (where logs are bigger than life)"
+        self.building_projects = ["FastAPI", "Flask", "MongoDB"]  # aka side-project graveyard
+        self.sharpening_skills = {
+            "SQL: because nothing says fun like debugging a JOIN with 5 tables",
+            "Bash: where one misplaced space = career-ending moment"
+        }
+        self.future_goal = "Cloud Engineer (cloud = paying rent for computers you’ll never see 💸)"
 
 ---
 ### 🤓 My Nerd Buffet
