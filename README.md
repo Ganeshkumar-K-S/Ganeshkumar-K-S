@@ -24,6 +24,7 @@ class NullPointerVision:
             "Bash: where one misplaced space = career-ending moment"
         }
         self.future_goal = "Cloud Engineer (cloud = paying rent for computers you’ll never see 💸)"
+```
 
 ---
 ### 🤓 My Nerd Buffet
