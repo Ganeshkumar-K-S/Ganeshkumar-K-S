@@ -1,4 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Ganesh Kumar</h1>
+<p align="center">
+  <img src="/assets/banner.jpg" alt="Banner" width="100%" />
+</p>
 
 <p align="center">
   🎓 <strong>Computer Science Student @ SSNCE</strong><br>
