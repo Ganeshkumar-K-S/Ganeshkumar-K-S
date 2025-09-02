@@ -52,6 +52,7 @@ class NullPointerVision:
   <img width="48" height="48" src="/assets/HDFS.png" alt="hadoop-distributed-file-system"/>
   <img width="48" height="48" src="/assets/cassandra.png" alt="Cassandra"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" alt="PostgreSQL" />
+  <img src="/assets/airbyte.png" width="48" alt="Airbyte" />
   <img src="https://img.icons8.com/ios-filled/50/sqlite.png" width="48" alt="SQLite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="48" alt="Linux" />
   <img src="https://img.icons8.com/color/48/mac-logo.png" alt="macOS" />
