@@ -39,8 +39,7 @@ class NullPointerVision:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" alt="JavaScript" />
-  <img src="https://img.icons8.com/glyph-neue/64/sql--v3.png" width="48" height="48" alt="SQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="48" alt="Flask" />
+  <img src="/assets/flask.png" width="48" alt="Flask" />
   <img src="/assets/FastAPI.png" alt="FastAPI" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" alt="React" />
   <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS" />
@@ -55,10 +54,11 @@ class NullPointerVision:
   <img width="48" height="48" src="/assets/cassandra.png" alt="Cassandra"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" alt="PostgreSQL" />
   <img src="/assets/airbyte.png" width="48" alt="Airbyte" />
-  <img src="https://img.icons8.com/ios-filled/50/sqlite.png" width="48" alt="SQLite" />
+  <img src="/assets/sqlite.png" width="48" alt="SQLite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="48" alt="Linux" />
   <img src="https://img.icons8.com/color/48/mac-logo.png" alt="macOS" />
   <img src="/assets/postman.png" alt="Postman" width="50" />
+  <img src="/assets/insomnia.png" alt="insomnia" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" alt="VSCode" />
   <img src="/assets/pycharm.jpg" alt="PyCharm" width="48" />
   <img src="https://img.icons8.com/fluency/48/jupyter.png" alt="Jupyter" />
