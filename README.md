@@ -58,7 +58,7 @@ class NullPointerVision:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="48" alt="Linux" />
   <img src="https://img.icons8.com/color/48/mac-logo.png" alt="macOS" />
   <img src="/assets/postman.png" alt="Postman" width="50" />
-  <img src="/assets/insomnia.png" alt="insomnia" width="50" />
+  <img src="/assets/insomnia.png" alt="insomnia" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" alt="VSCode" />
   <img src="/assets/pycharm.jpg" alt="PyCharm" width="48" />
   <img src="https://img.icons8.com/fluency/48/jupyter.png" alt="Jupyter" />
