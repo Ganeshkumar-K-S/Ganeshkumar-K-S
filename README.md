@@ -65,10 +65,6 @@ class NullPointerVision:
 </p>
 
 ---
-
-<br/>
-
----
 ### 🌐 Connect with Me
 
 <p align="center">
