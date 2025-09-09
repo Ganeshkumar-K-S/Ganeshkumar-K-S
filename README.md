@@ -66,16 +66,6 @@ class NullPointerVision:
 
 ---
 
-<!-- Streak Stats -->
-<picture>
-  <source 
-    srcset="https://nirzak-streak-stats.vercel.app/?user=Ganeshkumar-K-S&theme=default&hide_border=false" 
-    media="(prefers-color-scheme: light)" />
-  <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=Ganeshkumar-K-S&theme=dark&hide_border=false" 
-    alt="GitHub Streak Stats" />
-</picture>
-
 <br/>
 
 ---
