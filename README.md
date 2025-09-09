@@ -78,18 +78,6 @@ class NullPointerVision:
 
 <br/>
 
-<!-- Top Languages -->
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganeshkumar-K-S&theme=default&hide_border=false&layout=compact" 
-    media="(prefers-color-scheme: light)" />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganeshkumar-K-S&theme=dark&hide_border=false&layout=compact" 
-    alt="Top Languages" />
-</picture>
-
-</div>
-
 ---
 ### 🌐 Connect with Me
 
