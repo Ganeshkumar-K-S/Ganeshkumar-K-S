@@ -66,30 +66,6 @@ class NullPointerVision:
 
 ---
 
-### 📈 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Ganesh_Kumar_K_S?theme=light&font=Lato&ext=contest" alt="LeetCode Stats">
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<!-- GitHub Stats -->
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=Ganeshkumar-K-S&theme=default&hide_border=false&include_all_commits=true&count_private=false" 
-    media="(prefers-color-scheme: light)" />
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Ganeshkumar-K-S&theme=dark&hide_border=false&include_all_commits=true&count_private=false" 
-    alt="GitHub Stats" />
-</picture>
-
-<br/>
-
 <!-- Streak Stats -->
 <picture>
   <source 
