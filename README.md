@@ -46,7 +46,7 @@ class NullPointerVision:
   <img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" />
   <img src="https://img.icons8.com/color/48/numpy.png" alt="NumPy" />
   <img src="https://img.icons8.com/color/48/matplotlib.png" alt="Matplotlib" />
-  <img src="assets/bs4.png" width ="48" alt="BS4" />
+  <img src="assets/bs4.png" width ="55" alt="BS4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="48" alt="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" alt="MySQL" />
   <img src="https://img.icons8.com/color/48/oracle-logo.png" alt="Oracle DB" />
