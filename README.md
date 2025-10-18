@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/assets/Banner.jpg" alt="Banner" width="100%" />
+  <img src="/assets/Banner.png" alt="Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 ## 🚀 What I'm Up To 
 
 ```python
-class NullPointerVision:
+class VoidPointerVision:
     def __init__(self):
         self.currently_diving_in = "System Design (aka drawing boxes and arrows that magically solve scaling issues)"
         self.exploring = "Big Data & Backend Architectures (where logs are bigger than life)"
