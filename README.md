@@ -7,10 +7,16 @@
   ☁️ Aspiring <strong>Cloud Engineer</strong> | 💻 <strong>Backend Developer</strong> | 📊 <strong>Data Enthusiast</strong>
 </p>
 
-<p align="center">
-  <img src="/assets/poster.png" width="300" alt="animation">
-
 <p>
+  <img src="/assets/dp.gif" width="300" alt="animation">
+</p>
+
+<table>
+<tr>
+<td width="35%" valign="top">
+  <img src="/assets/poster.png" width="300" alt="animation">
+</td>
+<td width="60%" valign="top">
 
 ```python
 class VoidPointerVision:
