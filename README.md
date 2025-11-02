@@ -11,17 +11,12 @@
   <img src="/assets/dp.gif" width="300" alt="animation">
 </p>
 
----
-
 <div align="center" style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: wrap; gap: 30px;">
 
-  <!-- Deadpool image -->
+<p>
   <img src="/assets/poster.png" alt="Deadpool Card" width="250" style="border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.2);" />
 
-  <!-- Python code block -->
-  <div style="max-width: 600px; text-align: left;">
-
-```python
+  ```python
 class VoidPointerVision:
     def __init__(self):
         self.currently_diving_in = "System Design (aka drawing boxes and arrows that magically solve scaling issues)"
@@ -33,10 +28,7 @@ class VoidPointerVision:
         }
         self.future_goal = "Cloud Engineer (cloud = paying rent for computers you’ll never see 💸)"
 ```
-  
-  </div>
-
-</div>
+</p>
 
 
 
