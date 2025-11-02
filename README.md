@@ -13,18 +13,13 @@
 
 ---
 
----
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: wrap; gap: 30px;">
 
-## 🚀 What I'm Up To 
+  <!-- Deadpool image -->
+  <img src="/assets/poster.png" alt="Deadpool Card" width="250" style="border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.2);" />
 
-<table>
-  <tr>
-    
-  <td width="40%" align="center">
-    <img src="assets/poster.png" alt="Deadpool Card" width="250" />
-  </td>
-
-  <td width="60%">
+  <!-- Python code block -->
+  <div style="max-width: 600px; text-align: left;">
 
 ```python
 class VoidPointerVision:
@@ -38,10 +33,12 @@ class VoidPointerVision:
         }
         self.future_goal = "Cloud Engineer (cloud = paying rent for computers you’ll never see 💸)"
 ```
+  
+  </div>
 
-</td>
-</tr> 
-</table>
+</div>
+
+
 
 ---
 
@@ -106,5 +103,6 @@ class VoidPointerVision:
     <img src="https://img.icons8.com/color/48/gmail-new.png" width="48" alt="Gmail" />
   </a>
 </p>
+
 
 
