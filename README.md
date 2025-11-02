@@ -21,7 +21,7 @@
   <tr>
     <!-- Left column: Deadpool image -->
     <td width="40%" align="center">
-      <img src="poster.png" alt="Deadpool Card" width="250" />
+      <img src="assets/poster.png" alt="Deadpool Card" width="250" />
     </td>
 
 <!-- Right column: Python class -->
@@ -45,6 +45,7 @@ class VoidPointerVision:
 </table>
 
 ---
+
 ### 🤓 My Nerd Buffet
 
 <p align="center">
