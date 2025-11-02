@@ -8,11 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="/assets/dp.gif" width="300" alt="animation">
-  <img src="/assets/poster.png
-" alt="Deadpool Card" width="300" style="border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.2);">
-</p>
-
+  <img src="/assets/poster.png" width="300" alt="animation">
 
 <p>
 
