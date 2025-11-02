@@ -11,10 +11,8 @@
   <img src="/assets/dp.gif" width="300" alt="animation">
 </p>
 
-<div align="center" style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: wrap; gap: 30px;">
-
 <p>
-  <img src="/assets/poster.png" alt="Deadpool Card" width="250" style="border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.2);" />
+  <img src="/assets/poster.png" alt="Deadpool Card" width="250" style="border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.2);">
 
   ```python
 class VoidPointerVision:
@@ -28,6 +26,8 @@ class VoidPointerVision:
         }
         self.future_goal = "Cloud Engineer (cloud = paying rent for computers you’ll never see 💸)"
 ```
+
+  </img>
 </p>
 
 
