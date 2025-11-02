@@ -14,7 +14,8 @@
 <table>
 <tr>
 <td width="35%" valign="top">
-  <img src="/assets/poster.png" alt="Deadpool Card" width="100%" style="border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.2);">
+  <img src="https://raw.githubusercontent.com/Ganeshkumar-K-S/Ganeshkumar-K-S/main/assets/poster.png
+" alt="Deadpool Card" width="100%" style="border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.2);">
 </td>
 <td width="5%"></td>
 <td width="60%" valign="top">
