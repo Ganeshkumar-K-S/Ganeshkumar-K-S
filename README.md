@@ -19,13 +19,12 @@
 
 <table>
   <tr>
-    <!-- Left column: Deadpool image -->
-    <td width="40%" align="center">
-      <img src="assets/poster.png" alt="Deadpool Card" width="250" />
-    </td>
+    
+  <td width="40%" align="center">
+    <img src="assets/poster.png" alt="Deadpool Card" width="250" />
+  </td>
 
-<!-- Right column: Python class -->
-<td width="60%">
+  <td width="60%">
 
 ```python
 class VoidPointerVision:
