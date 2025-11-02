@@ -13,7 +13,19 @@
 
 ---
 
+---
+
 ## 🚀 What I'm Up To 
+
+<table>
+  <tr>
+    <!-- Left column: Deadpool image -->
+    <td width="40%" align="center">
+      <img src="poster.png" alt="Deadpool Card" width="250" />
+    </td>
+
+<!-- Right column: Python class -->
+<td width="60%">
 
 ```python
 class VoidPointerVision:
@@ -27,6 +39,10 @@ class VoidPointerVision:
         }
         self.future_goal = "Cloud Engineer (cloud = paying rent for computers you’ll never see 💸)"
 ```
+
+</td>
+</tr> 
+</table>
 
 ---
 ### 🤓 My Nerd Buffet
