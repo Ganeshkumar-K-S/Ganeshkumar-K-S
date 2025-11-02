@@ -11,10 +11,14 @@
   <img src="/assets/dp.gif" width="300" alt="animation">
 </p>
 
-<p>
+<table>
+<tr>
+<td width="30%">
   <img src="/assets/poster.png" alt="Deadpool Card" width="250" style="border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.2);">
+</td>
+<td width="70%">
 
-  ```python
+```python
 class VoidPointerVision:
     def __init__(self):
         self.currently_diving_in = "System Design (aka drawing boxes and arrows that magically solve scaling issues)"
@@ -24,13 +28,12 @@ class VoidPointerVision:
             "SQL: because nothing says fun like debugging a JOIN with 5 tables",
             "Bash: where one misplaced space = career-ending moment"
         }
-        self.future_goal = "Cloud Engineer (cloud = paying rent for computers you’ll never see 💸)"
+        self.future_goal = "Cloud Engineer (cloud = paying rent for computers you'll never see 💸)"
 ```
 
-  </img>
-</p>
-
-
+</td>
+</tr>
+</table>
 
 ---
 
@@ -95,6 +98,3 @@ class VoidPointerVision:
     <img src="https://img.icons8.com/color/48/gmail-new.png" width="48" alt="Gmail" />
   </a>
 </p>
-
-
-
