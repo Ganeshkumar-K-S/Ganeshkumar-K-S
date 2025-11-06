@@ -8,26 +8,24 @@
 </p>
 
 <p align="center">
-
   <img src="/assets/dp.gif" width="300" alt="animation">
-
 <p>
 
 <img align="left" alt="Coding Wizard" width="300" src="assets/poster.png">
 
 
 ```python
-    class VoidPointerVision:
-        def __init__(self):
-            self.currently_diving_in = "System Design (aka drawing boxes and arrows that magically solve scaling issues)"
-            self.exploring = "Big Data & Backend Architectures (where logs are bigger than life)"
-            self.building_projects = ["FastAPI", "Flask", "MongoDB"]  # aka side-project graveyard
-            self.sharpening_skills = {
-                "SQL: because nothing says fun like debugging a JOIN with 5 tables",
-                "Bash: where one misplaced space = career-ending moment"
-            }
-            self.future_goal = "Cloud Engineer (cloud = paying rent for computers you'll never see 💸)"
-    ```
+  class VoidPointerVision:
+      def __init__(self):
+          self.currently_diving_in = "System Design (aka drawing boxes and arrows that magically solve scaling issues)"
+          self.exploring = "Big Data & Backend Architectures (where logs are bigger than life)"
+          self.building_projects = ["FastAPI", "Flask", "MongoDB"]  # aka side-project graveyard
+          self.sharpening_skills = {
+              "SQL: because nothing says fun like debugging a JOIN with 5 tables",
+              "Bash: where one misplaced space = career-ending moment"
+          }
+          self.future_goal = "Cloud Engineer (cloud = paying rent for computers you'll never see 💸)"
+```
 
 <br clear="right"/>
 
