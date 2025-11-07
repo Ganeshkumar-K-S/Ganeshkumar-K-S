@@ -11,7 +11,7 @@
   <img src="/assets/dp.gif" width="300" alt="animation">
 </p>
 
-<img align="left" alt="Coding Wizard" width="200" src="assets/poster.png">
+<img align="left" alt="Coding Wizard" height="219" src="assets/poster.png">
 
 ```python
 class VoidPointerVision:
