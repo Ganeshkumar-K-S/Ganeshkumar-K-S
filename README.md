@@ -35,7 +35,7 @@ class VoidPointerVision:
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="48" alt="Bash" />
   <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/c@0.0.3/c.png" width="48" alt="C" />
-  <img src="/assets/C_Sharp.svg.png" width="48" alt="C#" />
+  <img src="/assets/C_Sharp.svg.png" width="45" alt="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" alt="HTML5" />
@@ -43,7 +43,7 @@ class VoidPointerVision:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" alt="JavaScript" />
   <img src="/assets/flask.png" width="48" alt="Flask" />
   <img src="/assets/FastAPI.png" alt="FastAPI" width="48" />
-  <img src="/assets/ASP_NET.webp" alt="FastAPI" width="48" />
+  <img src="/assets/ASP_NET.png" alt="FastAPI" width="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" alt="React" />
   <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS" />
   <img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" />
