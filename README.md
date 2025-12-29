@@ -49,6 +49,7 @@ class VoidPointerVision:
   <img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" />
   <img src="https://img.icons8.com/color/48/numpy.png" alt="NumPy" />
   <img src="https://img.icons8.com/color/48/matplotlib.png" alt="Matplotlib" />
+  <img src="https://camo.githubusercontent.com/f188d51f45d204d8a761b855785ea09ae45d12102d24c3510d8b8777754a74d5/68747470733a2f2f736561626f726e2e7079646174612e6f72672f5f696d616765732f6c6f676f2d6d61726b2d6c6967687462672e737667" alt="seaborn" />
   <img src="assets/bs4.png" width="48" alt="BS4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="48" alt="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" alt="MySQL" />
@@ -67,6 +68,7 @@ class VoidPointerVision:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" alt="VSCode" />
   <img src="/assets/pycharm.jpg" alt="PyCharm" width="48" />
   <img src="https://img.icons8.com/fluency/48/jupyter.png" alt="Jupyter" />
+  
 </p>
 
 ---
