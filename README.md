@@ -45,6 +45,7 @@ class VoidPointerVision:
   <img src="/assets/FastAPI.png" alt="FastAPI" width="48" />
   <img src="/assets/ASP_NET.png" alt="FastAPI" width="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" alt="React" />
+  <img src="/assets/node-js.png" width="48" alt="Node JS" />
   <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="Tailwind CSS" />
   <img src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" />
   <img src="https://img.icons8.com/color/48/numpy.png" alt="NumPy" />
